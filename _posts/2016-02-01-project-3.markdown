@@ -1,0 +1,6 @@
+---
+title: Content tester
+client: Reevoo
+category: Web Development
+description: Formed an innovation team which identified that we needed better tools to test the effectiveness of our user generated content. We rapidly designed the system and then built a prototype which generated a great deal of excitement from the rest of the business.
+---

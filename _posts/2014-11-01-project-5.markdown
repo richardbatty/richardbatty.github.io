@@ -1,0 +1,7 @@
+---
+title: Prototype data visualisation tool
+client: Board Intelligence
+category: Web Development
+description: Helped the business explore a new product direction by building a prototype tool for showing interactive visualisations of client data.
+
+---

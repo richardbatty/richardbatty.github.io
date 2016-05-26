@@ -1,0 +1,7 @@
+---
+title: Windows tablet application
+client: Board Intelligence
+category: Web Development
+description: Translated Board Intelligence's board pack management application into a windows tablet app so that we could demo it to potential clients.
+
+---
