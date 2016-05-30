@@ -1,6 +1,7 @@
 ---
 title: Content display system
 client: Reevoo
+image_path: /img/portfolio/experiences.png
 category: Web Development
 description: Built a substantial part of a new product for displaying user generated content on clients' websites. After working on the user interface, I built a more flexible backend system. This allowed us meet increasing demand from new clients by automating the import of their data.
 

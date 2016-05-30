@@ -11,6 +11,9 @@
                 <div class="col-md-6 col-sm-6 portfolio-item">
                         <h4>{{ post.title }}</h4>
                         <h5>{{ post.client }}</h5>
+                        {% if post.image_path %}
+                        <img class='portfolio-screenshot' src="{{ site.baseurl }}{{ post.image_path }}" alt="" />
+                        {% endif %}
                         <p>{{ post.description }}</p>
                 </div>
             {% endfor %}

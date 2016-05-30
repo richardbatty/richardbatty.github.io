@@ -2,5 +2,10 @@
   height: 130px;
   width: 130px;
   overflow: hidden;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
+}
+
+.portfolio-screenshot {
+  width: 100%;
+  margin: 10px 0;
 }
